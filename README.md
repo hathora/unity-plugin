@@ -10,7 +10,7 @@ Our official plugin is awaiting final review by Unity before being published, we
 
 Once the plugin is live, you will be able to find it here: https://assetstore.unity.com/packages/slug/256651
 
-![Overview of Hathora's plugin features](images/hathora_unity_plugin.png)
+<img src="images/hathora_unity_plugin.png" width="400" />
 
 ## Install instructions
 
