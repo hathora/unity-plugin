@@ -26,7 +26,7 @@ Once the plugin is live, you will be able to find it here: https://assetstore.un
    <img src="images/login_account.png" width="400" />
 6. Create an application in Hathora Cloud
    <img src="images/create_app_1.png" width="400" />
-   ![Create application in Hathora Cloud](images/create_app_2.png)
+   <img src="images/create_app_2.png" width="600" />
 7. Now you can use the plugin to build and deploy your game server.
    <img src="images/build_deploy.png" width="400" />
 8. You can also run the Demo scene to see a working integration example. Use the code in the Demo folder to jumpstart your own integration!
