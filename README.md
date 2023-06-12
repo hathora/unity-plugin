@@ -10,7 +10,7 @@ Our official plugin is awaiting final review by Unity before being published, we
 
 Once the plugin is live, you will be able to find it here: https://assetstore.unity.com/packages/slug/256651
 
-<img src="images/hathora_unity_plugin.png" width="400" />
+<img src="images/hathora_unity_plugin.png" width="500" />
 
 ## Install instructions
 
@@ -19,16 +19,16 @@ Once the plugin is live, you will be able to find it here: https://assetstore.un
 1. Clone this repository or download files (you really only need contents of the `UnityPackage` directory)
 2. Open the Unity project you want to add the plugin to
 3. Add `Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage` as a "Custom Package" (Assets > Import Package > Custom Package)
-   ![Install as custom package](images/install_package.png)
+<img src="images/install_package.png" width="400" />
 4. Using the Config Finder window, create a new config file
-   ![Create new config file](images/create_config.png)
+<img src="images/create_config.png" width="400" />
 5. Create or login to your Hathora Cloud account using the Editor inspector on your newly created config file from the previous step
-   ![Login or create a Hathora Cloud account](images/login_account.png)
+   <img src="images/login_account.png" width="400" />
 6. Create an application in Hathora Cloud
-   ![Click to create an application](images/create_app_1.png)
+   <img src="images/create_app_1.png" width="400" />
    ![Create application in Hathora Cloud](images/create_app_2.png)
 7. Now you can use the plugin to build and deploy your game server.
-   ![Build and deploy application](images/build_deploy.png)
+   <img src="images/build_deploy.png" width="400" />
 8. You can also run the Demo scene to see a working integration example. Use the code in the Demo folder to jumpstart your own integration!
    ![Demo scene](images/demo_scene.png)
 
