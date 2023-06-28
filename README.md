@@ -16,7 +16,7 @@ Once the plugin is live, you will be able to find it here: https://assetstore.un
 
 ![Screenshot of plugin contents](images/hathora_plugin_screenshot.png)
 
-1. Clone this repository or download files (you really only need contents of the `UnityPackage` directory)
+1. Download [Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin-ea/main/UnityPackage/Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage)
 2. Open the Unity project you want to add the plugin to
 3. Add `Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage` as a "Custom Package" (Assets > Import Package > Custom Package)
 <img src="images/install_package.png" width="400" />
