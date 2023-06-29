@@ -32,6 +32,7 @@ Once the plugin is live, you will be able to find it here: https://assetstore.un
 7. Now you can use the plugin to build and deploy your game server.
    <img src="images/build_deploy.png" width="400" />
 8. You can also run the Demo scene to see a working integration example. Use the code in the Demo folder to jumpstart your own integration!
+
    ![Demo scene](images/demo_scene.png)
 
 ## Questions?
