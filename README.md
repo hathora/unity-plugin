@@ -1,5 +1,7 @@
 # Hathora Cloud Unity Plugin early access
 
+Download the earily access plugin: [Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin-ea/main/UnityPackage/Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage)
+
 Hathora Cloud: Game Server Hosting is a comprehensive package that simplifies server deployment and operation for your multiplayer games. It takes advantage of the state-of-the-art Hathora Cloud infrastructure, providing cutting-edge performance and elastic compute scheduling for handling massive demand spikes.
 
 ![Unity asset store listing preview](images/plugin-preview.png)
