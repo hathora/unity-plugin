@@ -12,6 +12,8 @@ To learn about how deploying your game on Hathora Cloud helps with **global scal
 
 ![Screenshot of plugin contents](images/hathora_plugin_screenshot.png)
 
+Target Unity version: 2021.3.23 or higher (see "Version compatibility" below for more details)
+
 1. Download [Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin-ea/main/UnityPackage/Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage)
 2. Open the Unity project you want to add the plugin to
 3. Add `Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage` as a "Custom Package" (Assets > Import Package > Custom Package)
@@ -33,3 +35,14 @@ To learn about how deploying your game on Hathora Cloud helps with **global scal
 
 Get help and ask questions in our active Discord community:
 [https://discord.com/invite/hathora](https://discord.com/invite/hathora)
+
+## Version compatibility
+
+Our plugin is built for Unity version 2021.3.23f1 or higher.
+
+It does still work for earlier versions of 2021.3, but you will need to fix the Universal Render Pipeline (URP) package version. Note that URP is only used for our included demos, so if you simply ignore/delete the Demo folder, you can ignore the URP dependency. See the following steps to fix URP version:
+
+1. `Window` > `Package Manager` > remove Universal RP
+2. Find package via Unity Registry > install Universal RP (should be version compatible with your Unity version)
+3. `Edit` > `Project Settings` > `Graphics` > set "Scriptable Render Pipeline Settings" to `StarterAssetsURP`
+
