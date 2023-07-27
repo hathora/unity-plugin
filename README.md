@@ -1,20 +1,25 @@
-# Hathora Cloud Unity Plugin \[Early Access]
+# Hathora Cloud Unity Plugin
 
 <img src="images/hathora_unity_plugin.png" width="500" />
 
-Download the plugin: [Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin-ea/main/UnityPackage/Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage)
+Download the plugin: [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
 
-Hathora Cloud: Game Server Hosting is a comprehensive package that simplifies server deployment and operation for your multiplayer games. It takes advantage of the state-of-the-art Hathora Cloud infrastructure, providing cutting-edge performance and elastic compute scheduling for handling massive demand spikes.
+**Hathora Cloud Unity Plugin** includes:
+* Editor plugin to configure, build, and deploy your server directly from your Unity editor
+* Hathora Cloud C# SDK for programmatic integration
+* Demos directory with sample integrations with FishNet and Mirror networking solutions
 
-To learn about how deploying your game on Hathora Cloud helps with **global scalability**, **low latency**, and **zero-downtime deployments** - check out [our documenation page](https://hathora.dev/docs)
+For in-depth tutorial on using our plugin, check out our [Beginner's tutorial](https://hathora.dev/docs/engines/unity/beginners-tutorial).
+
+For a guide on using our plugin with your existing multiplayer game, check out our [Integration guide](https://hathora.dev/docs/engines/unity/integration-guide).
 
 ## Install instructions
 
 ![Screenshot of plugin contents](images/hathora_plugin_screenshot.png)
 
-1. Download [Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin-ea/main/UnityPackage/Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage)
+1. Download [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
 2. Open the Unity project you want to add the plugin to
-3. Add `Hathora_Cloud_Unity_plugin_earlyaccess.unitypackage` as a "Custom Package" (Assets > Import Package > Custom Package)
+3. Add `Hathora_Cloud_Unity_plugin_latest.unitypackage` as a "Custom Package" (`Assets` > `Import Package` > `Custom Package..`)
 <img src="images/install_package.png" width="400" />
 4. Using the Config Finder window, create a new config file
 <img src="images/create_config.png" width="400" />
@@ -25,8 +30,7 @@ To learn about how deploying your game on Hathora Cloud helps with **global scal
    <img src="images/create_app_2.png" width="600" />
 7. Now you can use the plugin to build and deploy your game server.
    <img src="images/build_deploy.png" width="400" />
-8. You can also run the Demo scene to see a working integration example. Use the code in the Demo folder to jumpstart your own integration!
-
+8. To learn more about the demos included, check out [this tutorial](https://hathora.dev/docs/engines/unity/beginners-tutorial).
    ![Demo scene](images/demo_scene.png)
 
 ## Questions?
