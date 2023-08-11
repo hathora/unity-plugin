@@ -13,6 +13,11 @@ For in-depth tutorial on using our plugin, check out our [Beginner's tutorial](h
 
 For a guide on using our plugin with your existing multiplayer game, check out our [Integration guide](https://hathora.dev/docs/engines/unity/integration-guide).
 
+
+## Plugin version history
+
+To view a log of release versions and change logs, checkout [VERSION_HISTORY.md](https://raw.githubusercontent.com/hathora/unity-plugin/main/VERSION_HISTORY.md)
+
 ## Install instructions
 
 ![Screenshot of plugin contents](images/hathora_plugin_screenshot.png)
