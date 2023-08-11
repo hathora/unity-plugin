@@ -16,7 +16,7 @@ For a guide on using our plugin with your existing multiplayer game, check out o
 
 ## Plugin version history
 
-To view a log of release versions and change logs, checkout [VERSION_HISTORY.md](https://raw.githubusercontent.com/hathora/unity-plugin/main/VERSION_HISTORY.md)
+To view a log of release versions and change logs, check out [VERSION_HISTORY.md](https://github.com/hathora/unity-plugin/blob/main/VERSION_HISTORY.md).
 
 ## Install instructions
 
