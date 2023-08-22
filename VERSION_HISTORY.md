@@ -1,6 +1,12 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released August 21st 2023 5:16pm PDT*
+
+* WSS/TLS support added to Mirror Demo
+* Minor stability and code improvements
+
+## v0_0_3
 *Released August 8th 2023 6:60pm PDT*
 
 * Fix for Dockerfile generation bug introduce in v0_0_2
