@@ -4,6 +4,8 @@
 
 Download the plugin: [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
 
+(if you want the plugin only, without the demo: [download plugin only](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)
+
 **Hathora Cloud Unity Plugin** includes:
 * Editor plugin to configure, build, and deploy your server directly from your Unity editor
 * Hathora Cloud C# SDK for programmatic integration
