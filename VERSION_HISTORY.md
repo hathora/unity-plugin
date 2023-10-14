@@ -1,6 +1,14 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released October ??st 2023 ?:??pm PDT*
+
+* New and improved Hathora Cloud Unity SDK
+* "Hathora Server Config Finder" pop-up window has been moved to the "Hathora" top menu
+* Caching of edtior plugin expand/collapse state
+* Minor stability and code improvements
+
+## v0_0_5
 *Released September 13st 2023 1:42pm PDT*
 
 * Improved HathoraServerMgr and HathoraClientMgr to make integration easier and more intuitive 

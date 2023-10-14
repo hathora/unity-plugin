@@ -32,7 +32,7 @@ Our plugin works best with Unity version `2021.3.28f1` and higher. It will still
 
    <img src="images/install_package.png" width="400" />
 
-### 4. Using the Config Finder window, create a new config file
+### 4. Using the "Hathora" top menu item, create a new config file
 
    <img src="images/create_config.png" width="400" />
 
