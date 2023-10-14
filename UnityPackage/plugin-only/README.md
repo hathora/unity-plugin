@@ -1,6 +1,6 @@
 # Hathora Cloud Unity Plugin
 
-<img src="../images/hathora_unity_plugin.png" width="500" />
+<img src="../../images/hathora_unity_plugin.png" width="500" />
 
 The plugin-only version of the Hathora Unity Plugin is the same as the base version, except it excludes:
 - `/Demo` directory (demo scenes for FishNet and Mirror networking)
