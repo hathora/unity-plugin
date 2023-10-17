@@ -1,7 +1,7 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
-*Released October ??st 2023 ?:??pm PDT*
+*Released October 16th 2023 5:25pm PDT*
 
 * New and improved Hathora Cloud Unity SDK
 * "Hathora Server Config Finder" pop-up window has been moved to the "Hathora" top menu
