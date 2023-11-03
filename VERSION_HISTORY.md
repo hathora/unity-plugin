@@ -1,6 +1,14 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released November 2nd 2023 6:57pm PDT*
+
+* HathoraClientMgr.CreateLobbyAsync now supports optional roomId override
+* HATHORA_REGION environment variable now stored in HathoraServerContext
+* Updated Hathora Cloud Unity SDK to latest version
+* Minor stability and code improvements
+
+## v0_0_6
 *Released October 16th 2023 5:25pm PDT*
 
 * New and improved Hathora Cloud Unity SDK
