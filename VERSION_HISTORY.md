@@ -1,6 +1,13 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released November 7th 2023 5:58pm PDT*
+
+* Fix links to Hathora docs
+* Fix server build generation script (`HathoraServerBuild.cs`) to better produce dedicated server build. Note: after running "Generate Server Build", Build Settings will be set to "Dedicated Server - Linux".
+* Fix tar script (`HathoraTar.cs`) to properly ignore new ButDontShip directory
+
+## v0_0_7
 *Released November 2nd 2023 6:57pm PDT*
 
 * HathoraClientMgr.CreateLobbyAsync now supports optional roomId override
