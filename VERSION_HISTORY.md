@@ -1,7 +1,15 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
-*Released November 7th 2023 5:58pm PDT*
+*Released November 30th 2023 12:06pm PDT*
+
+* Added configurable IL2CPP/Mono picker for HathoraServerConfig
+* Generating server build via Hathora plugin now properly returns Build Settings to what they were prior
+* Creating new HathoraServerConfig (via "Hathora" top menu" ) not creates in root of "/Assets" (to avoid users losing prior HathoraServerConfig when upgrading the Hathora plugin)
+* Update Hathora Cloud Unity SDK (improved naming to enhance developer experience)
+
+## v0_0_8
+*Released November 2nd 2023 6:57pm PDT*
 
 * Fix links to Hathora docs
 * Fix server build generation script (`HathoraServerBuild.cs`) to better produce dedicated server build. Note: after running "Generate Server Build", Build Settings will be set to "Dedicated Server - Linux".
