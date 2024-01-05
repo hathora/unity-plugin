@@ -2,7 +2,7 @@
 
 <img src="images/hathora_unity_plugin.png" width="500" />
 
-Download the plugin:
+**Download the plugin:**
 
 | Use case            | Download link         | Description           |
 |---------------------|-----------------------|-----------------------|
