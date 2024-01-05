@@ -2,9 +2,12 @@
 
 <img src="images/hathora_unity_plugin.png" width="500" />
 
-Download the plugin: [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
+Download the plugin:
 
-If you want the plugin only (no demo scene): [download plugin only](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)
+| Use case            | Download link         | Description           |
+|---------------------|-----------------------|-----------------------|
+| Existing game       | [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)   | plugin-only package   |
+| Sample demo project | [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage) | plugin + demo package |
 
 **Hathora Cloud Unity Plugin** includes:
 * Editor plugin to configure, build, and deploy your server directly from your Unity editor

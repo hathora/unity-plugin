@@ -1,6 +1,13 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released January 4th 2024 5:19pm PDT*
+
+* Fix for "Create Room" were it was being incorrectly set to Seattle region when creating a room with the Unity plugin
+* Clean up for warnings in Unity editor caused by plugin and SDK
+* Minor stability and code improvements
+
+## v0_0_9
 *Released November 30th 2023 12:06pm PDT*
 
 * Added configurable IL2CPP/Mono picker for HathoraServerConfig
