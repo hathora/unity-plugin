@@ -29,7 +29,12 @@ To view a log of release versions and change logs, check out [VERSION_HISTORY.md
 
 Our plugin works best with Unity version `2021.3.28f1` and higher. It will still work with earlier version of `2021.3.x`, see "Version Compatability" section below.
 
-### 1. Download [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
+### 1. Download plugin
+
+Plugin only (integrating w/ existing game): [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)
+
+Plugin + demo (learning): [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
+
 ### 2. Open the Unity project you want to add the plugin to
 ### 3. Add `Hathora_Cloud_Unity_plugin_latest.unitypackage` as a "Custom Package" (`Assets` > `Import Package` > `Custom Package..`)
 
