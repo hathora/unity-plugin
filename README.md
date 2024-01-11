@@ -4,10 +4,10 @@
 
 **Download the plugin:**
 
-| Use case            | Download link         | Description           |
-|---------------------|-----------------------|-----------------------|
-| Existing game       | [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)   | plugin-only package   |
-| Sample demo project | [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage) | plugin + demo package |
+| Use case            | Download link         | Description           | Setup docs           |
+|---------------------|-----------------------|-----------------------|-----------------------|
+| Existing game       | [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)   | plugin-only package   | [view docs](https://github.com/hathora/unity-plugin/tree/main/UnityPackage/plugin-only#hathora-cloud-unity-plugin) |
+| Sample demo project | [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage) | plugin + demo package | [view guide](https://github.com/hathora/unity-plugin/tree/main?tab=readme-ov-file#install-instructions) |
 
 **Hathora Cloud Unity Plugin** includes:
 * Editor plugin to configure, build, and deploy your server directly from your Unity editor
@@ -34,6 +34,8 @@ Our plugin works best with Unity version `2021.3.28f1` and higher. It will still
 ### 3. Add `Hathora_Cloud_Unity_plugin_latest.unitypackage` as a "Custom Package" (`Assets` > `Import Package` > `Custom Package..`)
 
    <img src="images/install_package.png" width="400" />
+
+NOTE: If you're installing the `plugin-only` version, you may notice errors with `The type of namespace name "Newtonsoft" cannot be found`. These are expected, to fix you will need to install Newtonsoft via Unity's Package Manager. You can do so by adding the package by name: `com.unity.nuget.newtonsoft-json`.
 
 ### 4. Using the "Hathora" top menu item, create a new config file
 
