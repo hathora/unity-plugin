@@ -35,7 +35,7 @@ Our plugin works best with Unity version `2021.3.28f1` and higher. It will still
 
    <img src="images/install_package.png" width="400" />
 
-NOTE: If you're installing the `plugin-only` version, you may notice errors with `The type of namespace name "Newtonsoft" cannot be found`. These are expected, to fix you will need to install Newtonsoft via Unity's Package Manager. You can do so by adding the package by name: `com.unity.nuget.newtonsoft-json`.
+**NOTE:** If you're installing the `plugin-only` version, you may notice errors with `The type of namespace name "Newtonsoft" cannot be found`. These are expected, to fix you will need to install Newtonsoft via Unity's Package Manager. You can do so by adding the package by name: `com.unity.nuget.newtonsoft-json`.
 
 ### 4. Using the "Hathora" top menu item, create a new config file
 
