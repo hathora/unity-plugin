@@ -4,7 +4,7 @@
 
 **Download the plugin:**
 
-| Use case            | Download link         | Description           | Setup docs           |
+| Use case            | Download link         | Description           | Setup docs            |
 |---------------------|-----------------------|-----------------------|-----------------------|
 | Existing game       | [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)   | plugin-only package   | [view docs](https://github.com/hathora/unity-plugin/tree/main/UnityPackage/plugin-only#hathora-cloud-unity-plugin) |
 | Sample demo project | [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage) | plugin + demo package | [view guide](https://github.com/hathora/unity-plugin/tree/main?tab=readme-ov-file#install-instructions) |
@@ -31,9 +31,9 @@ Our plugin works best with Unity version `2021.3.28f1` and higher. It will still
 
 ### 1. Download plugin
 
-Plugin only (integrating w/ existing game): [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)
+Plugin-only (best for integrating w/ existing game): [Hathora_Cloud_Unity_pluginonly_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/plugin-only/Hathora_Cloud_Unity_pluginonly_latest.unitypackage)
 
-Plugin + demo (learning): [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
+Plugin + demo (best for learning): [Hathora_Cloud_Unity_plugin_latest.unitypackage](https://raw.githubusercontent.com/hathora/unity-plugin/main/UnityPackage/Hathora_Cloud_Unity_plugin_latest.unitypackage)
 
 ### 2. Open the Unity project you want to add the plugin to
 ### 3. Add `Hathora_Cloud_Unity_plugin_latest.unitypackage` as a "Custom Package" (`Assets` > `Import Package` > `Custom Package..`)
