@@ -1,14 +1,21 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
-*Released January 4th 2024 5:19pm PDT*
+*Released January 25th 2024 4:12pm PST*
+
+* Update to latest Hathora Cloud Unity SDK (ProcessV2 API added)
+* HathoraServerMgr updated to include built-in method for handling active rooms for process (useful for multi-room and multi-peer use cases)
+* Minor stability and code improvements
+
+## v0_0_10
+*Released January 4th 2024 5:19pm PST*
 
 * Fix for "Create Room" were it was being incorrectly set to Seattle region when creating a room with the Unity plugin
 * Clean up for warnings in Unity editor caused by plugin and SDK
 * Minor stability and code improvements
 
 ## v0_0_9
-*Released November 30th 2023 12:06pm PDT*
+*Released November 30th 2023 12:06pm PST*
 
 * Added configurable IL2CPP/Mono picker for HathoraServerConfig
 * Generating server build via Hathora plugin now properly returns Build Settings to what they were prior
