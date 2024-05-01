@@ -1,6 +1,11 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released April 30th 2024 6:55pm PST*
+
+* Fix for bug where plguin's Deploy Application button was failing
+
+## v0_0_11
 *Released January 25th 2024 4:12pm PST*
 
 * Update to latest Hathora Cloud Unity SDK (ProcessV2 API added)
