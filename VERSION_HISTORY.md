@@ -1,9 +1,17 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released May 14th 2024 5:50pm PST*
+
+* Add Dallas region support
+* Update to latest Unity SDK (ProcessV2, BuildsV2, DeploymentV2)
+* Fix for broken links in Unity SDK docs
+* Minor stability and code improvements
+
+## v0_0_11_1
 *Released April 30th 2024 6:55pm PST*
 
-* Fix for bug where plguin's Deploy Application button was failing
+* Fix for bug where plugin's Deploy Application button was failing
 
 ## v0_0_11
 *Released January 25th 2024 4:12pm PST*
