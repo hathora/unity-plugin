@@ -1,6 +1,11 @@
 # Hathora Cloud Unity Plugin Version History
 
 ## LATEST
+*Released June 16th 2024 7:29pm PST*
+
+* Fix for plugin login issue preventing some users from logging in and using the plugin
+
+## v0_0_12
 *Released May 14th 2024 5:50pm PST*
 
 * Add Dallas region support
