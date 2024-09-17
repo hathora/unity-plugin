@@ -1,6 +1,13 @@
 # Hathora Cloud Unity Plugin Version History
 
+
 ## LATEST
+*Released September 17th 2024 12:45pm PST*
+
+* Support for Global Builds
+* Update to latest Unity SDK (AppsV2, ProcessesV3, BuildsV3, DeploymentV3)
+
+## v0_0_13
 *Released June 16th 2024 7:29pm PST*
 
 * Fix for plugin login issue preventing some users from logging in and using the plugin
