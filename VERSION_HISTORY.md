@@ -2,6 +2,13 @@
 
 
 ## LATEST
+*Released March 7th 2025 5:32pm PST*
+
+* Support for Unity 6 (Plugin & Demo)
+* Update to latest Unity SDK
+* Minor stability and code improvements
+
+## v0_0_14
 *Released September 17th 2024 12:45pm PST*
 
 * Support for Global Builds
